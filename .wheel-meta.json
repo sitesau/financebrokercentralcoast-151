@@ -1,0 +1,17 @@
+{
+  "wheel_id": 99,
+  "slug": "financebrokercentralcoast-151",
+  "project": "refinancing-central-coast-f-151",
+  "parent_t1_ref": "financebrokercentralcoast-002",
+  "node_role": "buffer",
+  "money_target": "financebrokercentralcoast.com.au",
+  "primary_kw": "refinancing central coast",
+  "intended_url": "https://refinancing-central-coast-f-151.surge.sh/",
+  "links": [
+    {
+      "target_url": "https://refinancing-central-coast-guide.vercel.app/",
+      "anchor": "refinancing central coast",
+      "rel": "follow"
+    }
+  ]
+}
