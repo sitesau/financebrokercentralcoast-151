@@ -12,4 +12,4 @@ Disallow: /
 User-agent: DotBot
 Disallow: /
 
-Sitemap: https://refinancing-central-coast-f-151.surge.sh/sitemap.xml
+Sitemap: https://sitesau.github.io/financebrokercentralcoast-151/sitemap.xml

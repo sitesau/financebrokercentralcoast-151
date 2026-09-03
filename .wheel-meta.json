@@ -6,12 +6,13 @@
   "node_role": "buffer",
   "money_target": "financebrokercentralcoast.com.au",
   "primary_kw": "refinancing central coast",
-  "intended_url": "https://refinancing-central-coast-f-151.surge.sh/",
+  "intended_url": "https://sitesau.github.io/financebrokercentralcoast-151/",
   "links": [
     {
       "target_url": "https://refinancing-central-coast-guide.vercel.app/",
       "anchor": "refinancing central coast",
       "rel": "follow"
     }
-  ]
+  ],
+  "structure": "wheel"
 }
